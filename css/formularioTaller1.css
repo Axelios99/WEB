@@ -1,9 +1,28 @@
+
+
 .Titulo{
     font-size: 6rem;
     text-align: center;
-    color: red;
+    color: rgb(110, 13, 13);
+}
+
+body{
+    font-family:Gabriola;
+    color: #5a0b0b;
+    background-repeat: no-repeat;
+    background-size: 1400px ;
+    text-align: center;
+    font-size: 30px;
+
 }
 .contenedor{
     text-align: center;
     font-size: 2rem;
 }
+.botonEnviar{
+    background: #520909;
+    color: #fff;
+    padding: 3px;
+    font-family:  Gabriola;
+    font-size: 25px;
+    border-bottom: solid 5px #b1b3c5;
