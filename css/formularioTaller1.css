@@ -26,3 +26,23 @@ body{
     font-family:  Gabriola;
     font-size: 25px;
     border-bottom: solid 5px #b1b3c5;
+}
+
+
+.grid{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+}
+
+.div{
+    background-color: aqua;
+    padding: 1rem;
+}
+
+div:hover{
+    border: 1px solid blueviolet;
+    background-color: cyan;
+}
+
+.pruebaDeConexion{	
+}
